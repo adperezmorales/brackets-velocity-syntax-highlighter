@@ -1,0 +1,27 @@
+{
+  "name": "velocity",
+  "title": "Velocity Syntax Highlighter",
+  "version": "1.0.0",
+  "description": "Syntax highlighting support for Velocity template files (.vm)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adperezmorales/brackets-velocity-syntax-highlighter"
+  },
+  "keywords": [
+    "velocity",
+    "syntax",
+    "highlighting"
+  ],
+  "author": "Antonio David Perez Morales <adperezmorales@gmail.com> (https://github.com/adperezmorales)",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/adperezmorales/brackets-velocity-syntax-highlighter/issues"
+  },
+  "homepage": "https://github.com/adperezmorales/brackets-velocity-syntax-highlighter",
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
